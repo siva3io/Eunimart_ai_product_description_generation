@@ -1,0 +1,20 @@
+model_mapping = {
+"auto_accessory"                :"industrial",
+"entertainment_collectibles"    :"toys",
+"food_and_beverages"            :"home",
+"food_service_and_jan_san"      :"home",
+"gift_card"                     :"home",
+"lab_supplies"                  :"industrial",
+"lighting"                      :"home_improvement",
+"mechanical_fasteners"          :"industrial",
+"musical_instruments"           :"home",
+"power_transmission"            :"industrial",
+"raw_materials"                 :"industrial",
+"software_video_games"          :"computers",
+"sports_memorabilia"            :"sports",
+"tires_and_wheels"              :"industrial",
+"toys_baby"                     :"toys",
+"video"                         :"computers",
+"wine_and_alcohol"              :"home",
+"wireless"                      :"consumer_electronics"
+}
